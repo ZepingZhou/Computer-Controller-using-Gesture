@@ -20,6 +20,6 @@ This repository provides a simple application that controls the computer through
 > + QR Code
 
 ## TODO
-> Code refactoring
-> Improve recognition accuracy
-> More features
+> + Code refactoring  
+> + Improve recognition accuracy  
+> + More features  
