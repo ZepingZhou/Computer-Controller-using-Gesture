@@ -1,5 +1,5 @@
 # Computer-Controller-using-Gesture
-This repository provides a simple application implemented with gesture recognition.
+This repository provides a simple application that controls the computer through gesture recognition.
 
 ## Requirements
 > + Python >= 3.6
@@ -12,3 +12,14 @@ This repository provides a simple application implemented with gesture recogniti
 
 ## Demo
 > python demo.py
+
+## Existing features
+> + gesture recognition
+> + Volume Control
+> + Screen Shot
+> + QR Code
+
+## TODO
+> Code refactoring
+> Improve recognition accuracy
+> More features
