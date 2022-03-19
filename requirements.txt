@@ -1,0 +1,13 @@
+mediapipe
+MouseInfo
+numpy
+opencv-contrib-python
+opencv-python
+qrcode
+sklearn
+torch
+torchfile
+torchsummary
+torchvision
+xgboost
+pynput
