@@ -13,7 +13,7 @@ This repository provides a simple application that controls the computer through
 ## Demo
 > python demo.py
 
-## Existing features
+## Features
 > + gesture recognition
 > + Volume Control
 > + Screen Shot
